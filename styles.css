@@ -14,5 +14,12 @@ img.a {
 
   .main-p {
     color:crimson;
-    font-size: larger;
+    font-size: xx-large;
+    background-color: bisque;
+  }
+
+  .main-p2 {
+    color:rgb(23, 20, 179);
+    font-size: x-large;
+    
   }
