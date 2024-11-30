@@ -1,7 +1,14 @@
 .img-thumbnail {
-    width: 150px;
-    height: 100px;
+  text-align: center;
 }
+
+.img-thumbnail .caption {
+  display: block;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
 .main {
     text-align-last: center;
     vertical-align: baseline;
@@ -23,3 +30,12 @@ img.a {
     font-size: x-large;
     
   }
+
+
+footer {
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #fdfad3;
+  color: #000;
+}
